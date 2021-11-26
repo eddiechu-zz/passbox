@@ -1,2 +1,2 @@
 # PassBox
-Compose your complex password
+Compose your complex password in offline
